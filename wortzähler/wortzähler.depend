@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1720699201 source:c:\users\student\documents\c++ projs\wortzähler\main.cpp
+	<iostream>
+
+1720701376 source:e:\ahmed\c++ projs\wortzähler\main.cpp
+	<iostream>
+	<typeinfo>
+	<string>
+
